@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌿 Ecosynthra Lab
+## Ecosynthra Lab
 
 **Geospatial and AI tools for ecological intelligence in West Africa**
 
